@@ -1,0 +1,21 @@
+[submodule "aws-robomaker-small-warehouse-world"]
+	path = aws-robomaker-small-warehouse-world
+	url = https://github.com/Ruthrash/aws-robomaker-small-warehouse-world.git
+[submodule "robotnik_sensors"]
+	path = robotnik_sensors
+	url = https://github.com/Ruthrash/robotnik_sensors.git
+[submodule "robotnik_msgs"]
+	path = robotnik_msgs
+	url = https://github.com/Ruthrash/robotnik_msgs.git
+[submodule "robotnik_base_hw_sim"]
+	path = robotnik_base_hw_sim
+	url = https://github.com/Ruthrash/robotnik_base_hw_sim.git
+[submodule "slam_gmapping"]
+	path = slam_gmapping
+	url = https://github.com/Ruthrash/slam_gmapping.git
+[submodule "summit_xl_common"]
+	path = summit_xl_common
+	url = https://github.com/Ruthrash/summit_xl_common.git
+[submodule "summit_xl_sim"]
+	path = summit_xl_sim
+	url = https://github.com/Ruthrash/summit_xl_sim.git
